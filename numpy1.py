@@ -23,3 +23,5 @@ x = np.array(temp).reshape(-1,1) #Default
 # You can give (1,-1) for rows and columns opposite if you need 1 rows and n columns just reverse
 
 print(x)
+
+#Numpy is Numeric python
